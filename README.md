@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![background](https://raw.githubusercontent.com/mrakhgari/mrakhgarimaster/NoInterner.jfif)
+![background](https://raw.githubusercontent.com/mrakhgari/mrakhgari/master/NoInterner.jfif)
 
 <!--
 **mrakhgari/mrakhgari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
