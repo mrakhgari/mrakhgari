@@ -1,18 +1,22 @@
-### Hi there 👋
-
 ![background](https://raw.githubusercontent.com/mrakhgari/mrakhgari/master/NoInterner.jfif)
+## Hello World
 
-<!--
-**mrakhgari/mrakhgari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`git config --global user.name "MuhammadReza Akhgari"`
 
-Here are some ideas to get you started:
+  🧑‍🎓 B.S. in COMPUTER ENGINEERING at AmirKabir University of Technology,
+  💻 Client side developer at [Quizo f Kings](quizofkings.com),
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  💬 [LinkedIn](https://www.linkedin.com/in/muhammadreza-akhgari) | [Twitter](https://twitter.com/muhmdreza2)
+
+
+## git log
+
+I am one of the developers of Quiz of Kings, but despite this, I am also interested in Linux and I try to improve day by day.
+I now spend my time learning new things.
+
+## git log
+
+I am one of the developers of Quiz of Kings, but despite this, I am also interested in Linux and I try to improve day by day.
+I now spend my time learning new things.
+😴 Don't forget, I love sleep very much.
