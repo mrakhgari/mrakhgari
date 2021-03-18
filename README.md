@@ -4,7 +4,7 @@
 `git config --global user.name "MuhammadReza Akhgari"`
 
   🧑‍🎓 B.S. in COMPUTER ENGINEERING at AmirKabir University of Technology,
-  💻 Client side developer at [Quizo of Kings](quizofkings.com),
+  💻 Client side developer at [Quiz of Kings](quizofkings.com),
   
 
   💬 [LinkedIn](https://www.linkedin.com/in/muhammadreza-akhgari) | [Twitter](https://twitter.com/muhmdreza2)
