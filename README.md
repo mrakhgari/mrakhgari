@@ -20,16 +20,16 @@ education:
 fields_of_interests:
   [
   	"Natural Language Processing (NLP)"
-    "Image Processing"
+    	"Image Processing"
 	"Web Development",
-    "Data Science",
-    "Machine Learning",
+    	"Data Science",
+    	"Machine Learning",
   ]
 technical_background:
   [
-    "Clinet Side Developer - Quiz of Kings",
-    "Telegram Bot Developer - Meghyas",
-	"Teacher Assistance - Linux festival"
+        "Clinet Side Developer - Quiz of Kings",
+        "Telegram Bot Developer - Meghyas",
+        "Teacher Assistance - Linux festival"
 	"Teacher Assistance - AmirKabir University of Technology"
   ]
   
