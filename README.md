@@ -15,7 +15,7 @@ name: Muhammadreza Akhgari Ziri
 located_in: Tehran, Iran
 education:
   [
-    "Bachelor's in computer engineering at AmirKabir University of Technology",
+    	"Bachelor's in computer engineering at AmirKabir University of Technology",
   ]
 fields_of_interests:
   [
