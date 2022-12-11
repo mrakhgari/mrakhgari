@@ -8,6 +8,7 @@
 
 <!-- About me --->
 I'm Muahammadreza Akhgari Ziri (You can call me mr.ziri)! A computer engineer almost most of the time, and a DotA2 player rest of the time. A person who is always interested in learning new things. Currently working on computer vision and natural language processing. But it can be changed in the future, nobody knows! I also have experience with Frontend development. by the way, I love anything that is related to computers and DotA!!
+
 You can see a little about me below:
 
 ```yaml
@@ -34,7 +35,7 @@ technical_background:
   ]
   
 currently_learning: ["Image Processing and Django"]
-2022 Goals: ["Create 20+ Projects"]
+2023 Goals: ["Create 20+ Projects"]
 hobbies: ["Gaming", "Cinema", "Book"]
 ```
 <!-- Connect  --->
