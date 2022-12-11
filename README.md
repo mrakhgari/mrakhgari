@@ -54,6 +54,6 @@ hobbies: ["Gaming", "Cinema", "Book"]
   <summary><b>Stats</b></summary>
   
 ![stats](https://github-readme-stats.vercel.app/api?username=mrakhgari&theme=dracula&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakhgari&theme=darcula&layout=compact)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakhgari&theme=dracula&layout=compact)
 ![trophy](https://github-profile-trophy.vercel.app/?username=mrakhgari&no-frame=false&column=4&theme=dracula)
 </details>
