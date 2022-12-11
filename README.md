@@ -40,7 +40,8 @@ hobbies: ["Gaming", "Cinema", "Book"]
 <!-- Connect  --->
 <details>
   <summary><b>Where to find me</b></summary>
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=Social&logo=telegram&logoColor=white)](https://t.me/A_ziri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=Social&logo=Twitter&logoColor=white)](https://twitter.com/muhmdreza2) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadreza-akhgari)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=Social&logo=telegram&logoColor=white)](https://t.me/A_ziri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=Social&logo=Twitter&logoColor=white)](https://twitter.com/muhmdreza2) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadreza-akhgari)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=Social&logo=gmail&logoColor=white)](mailto:mra.akhgari@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=Social&logo=Instagram&logoColor=white)](https://www.instagram.com/_muhmdreza/)
 
