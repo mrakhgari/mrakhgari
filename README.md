@@ -7,7 +7,7 @@
 <h3 align="center">Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h3>
 
 <!-- About me --->
-I'm Muahammadreza Akhgari Ziri (You can call me mr.ziri)! A computer engineer almost most of the time, and a DotA2 player rest of the time. A person who is always interested in learning new things. Currently working on computer vision and natural language processing. But it can be changed in the future, nobody knows! I also have experience with Frontend development. by the way, I love anything that is related to computers and DotA!!
+I'm Muahammadreza Akhgari Ziri (You can call me mr.ziri)! A computer engineer almost most of the time, and a DotA2 player rest of the time. A person who is always interested in learning new things. Currently working on computer vision and natural language processing. But it can be changed in the future, nobody knows! I also have experience with Frontend development. By the way, I love anything that is related to computers and DotA!!
 
 You can see a little about me below:
 
